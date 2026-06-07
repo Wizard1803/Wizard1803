@@ -15,17 +15,22 @@ and deepen my pentesting skills.
 Open to penetration testing internship opportunities —
 web applications, Active Directory, and internal network assessments.
 
-## Skills
-Languages & Scripting:
-Python • JavaScript • SQL • Java
+## Skills 
+<div align="center">Languages & Scripting:</div>  
+python, javascript, sql, java, bash
 
-Web Development:
+<div align="center">Web Development:</div>  
 Node.js • Express.js • MongoDB • Oracle DB
-EJS • JWT • Multer • Cloudinary
+EJS • JWT • Multer • Cloudinary  
 
-Operating Systems:
+<div align="center">Operating Systems:</div>  
 Kali Linux • Windows
 
-Security:
+<div align="center">Security:</div>  
 Web Application Security • Network Fundamentals
 OWASP Top 10 • Reconnaissance
+
+## Profiles
+<i class="ph ph-at"></i>
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/kumawat-piyush/)
+[![Email](https://skillicons.dev/icons?i=gmail)](mailto:amritkumawat1803@gmail.com)
