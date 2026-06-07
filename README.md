@@ -1,7 +1,7 @@
 # Piyush / Wizard1803
 Final-year CSE student • Offensive Security & Penetration Testing  
 I build things and break things — hunting for my first red team internship.
-• HackTheBox | TryHackMe
+• HackTheBox | TryHackMe 
 
 ## About Me
 I'm a final-year CSE student focused on offensive security and
