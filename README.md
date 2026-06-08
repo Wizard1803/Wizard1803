@@ -9,8 +9,8 @@ penetration testing. My approach is hands-on — I've built full-stack
 web applications and I apply that knowledge to understand how real
 systems get compromised.
 
-Currently preparing for the HTB CPTS certification to formalize
-and deepen my pentesting skills.
+Currently preparing for the Port Swigger BSCP certification to formalize
+and deepen my pentesting skills. And further HTB CPTS is also in bucketlist of mine.
 
 Open to penetration testing internship opportunities —
 web applications, Active Directory, and internal network assessments.
